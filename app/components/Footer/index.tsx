@@ -7,7 +7,7 @@ const Footer: FunctionComponent<Props> = () => (
     <div className="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
       <div className="flex justify-center md:order-2">
         <a
-          href="https://www.linkedin.com/in/thibaudduthoit/"
+          href="/"
           target="_blank"
           rel="noopener noreferrer"
           className="mx-3 text-gray-500 hover:text-gray-500"
@@ -18,7 +18,7 @@ const Footer: FunctionComponent<Props> = () => (
           </svg>
         </a>
         <a
-          href="https://github.com/tidusia"
+          href="https://github.com/morrisonak"
           target="_blank"
           rel="noopener noreferrer"
           className="mx-3 text-gray-500 hover:text-gray-500"
@@ -33,7 +33,7 @@ const Footer: FunctionComponent<Props> = () => (
           </svg>
         </a>
         <a
-          href="https://twitter.com/thibaud_duthoit"
+          href="/"
           target="_blank"
           rel="noopener noreferrer"
           className="mx-3 text-gray-500 hover:text-gray-500"
@@ -46,7 +46,7 @@ const Footer: FunctionComponent<Props> = () => (
       </div>
       <div className="mt-8 md:mt-0 md:order-1">
         <p className="text-center text-base leading-6 text-gray-500">
-          &copy; {new Date().getFullYear()} Thibaud Duthoit
+          &copy; {new Date().getFullYear()} Justin Morrison
         </p>
       </div>
     </div>

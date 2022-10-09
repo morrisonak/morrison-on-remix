@@ -62,7 +62,7 @@ export default function Contact() {
           <div className="bg-white py-8 md:py-16 lg:py-24 px-4 sm:px-6 lg:px-8 xl:pl-12 lg:col-span-3 ">
             <div className="max-w-lg mx-auto lg:max-w-none">
               <form
-                action="https://formspree.io/f/xdoyqebo"
+                action="https://formspree.io/f/mnqrznvj"
                 method="post"
                 className="grid grid-cols-1 gap-y-6"
               >
