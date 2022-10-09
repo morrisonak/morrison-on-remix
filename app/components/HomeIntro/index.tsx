@@ -26,7 +26,7 @@ const HomeIntro = () => (
               <span className="text-blue-500">un produit web innovant</span>
             </h1>
             <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-              Bonjour, je suis Thibaud Duthoit.
+              Bonjour, je suis Justin Morrison.
               <br />
               Développeur front-end freelance, spécialisé en React.
             </p>
