@@ -78,7 +78,7 @@ const Nav = () => {
                 to={ROUTES.home.href}
                 className="text-2xl tracking-tight leading-10 font-extrabold text-white"
               >
-                Thibaud Duthoit
+                Justin Morrison
               </Link>
               <div className="-mr-2">
                 <button
